@@ -1,9 +1,12 @@
-/build"Scripts/"   # Windows
-"bin/"       # macOS/Linux
-"lib/" 
-"Lib/"
-"Include/"   # Windows
-"pyvenv.cfg" 
-"__pycache__/" 
-"tasks.txt"
+/build
+/dist
+/Scripts
+/Lib
+Include/
+
+main.spec
+
+pyvenv.cfg
+__pycache__/
+tasks.txt
 dist/tasks.txt
