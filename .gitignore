@@ -1,1 +1,5 @@
-/build
+/build"Scripts/"   # Windows
+"bin/"       # macOS/Linux
+"lib/" 
+"Include/"   # Windows
+"pyvenv.cfg" 
